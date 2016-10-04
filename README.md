@@ -1,3 +1,3 @@
-#Ruby On Rails Tutrial
+#Twitter Application 
 
-This application is Sample Demo of Twiffer 
+This application is Copy of Twitter developed using RubyOnRails
